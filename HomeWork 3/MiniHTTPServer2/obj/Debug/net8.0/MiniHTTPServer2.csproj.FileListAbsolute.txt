@@ -1,0 +1,16 @@
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\bin\Debug\net8.0\MiniHTTPServer2.exe
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\bin\Debug\net8.0\MiniHTTPServer2.deps.json
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\bin\Debug\net8.0\MiniHTTPServer2.runtimeconfig.json
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\bin\Debug\net8.0\MiniHTTPServer2.dll
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\bin\Debug\net8.0\MiniHTTPServer2.pdb
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\obj\Debug\net8.0\MiniHTTPServer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\obj\Debug\net8.0\MiniHTTPServer2.AssemblyInfoInputs.cache
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\obj\Debug\net8.0\MiniHTTPServer2.AssemblyInfo.cs
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\obj\Debug\net8.0\MiniHTTPServer2.csproj.CoreCompileInputs.cache
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\obj\Debug\net8.0\MiniHTTPServer2.dll
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\obj\Debug\net8.0\refint\MiniHTTPServer2.dll
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\obj\Debug\net8.0\MiniHTTPServer2.pdb
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\obj\Debug\net8.0\MiniHTTPServer2.genruntimeconfig.cache
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\obj\Debug\net8.0\ref\MiniHTTPServer2.dll
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\bin\Debug\net8.0\Static\Index.html
+C:\Users\gamza\source\repos\MiniHTTPServer2\MiniHTTPServer2\bin\Debug\net8.0\settings.json
