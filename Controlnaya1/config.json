@@ -1,0 +1,7 @@
+﻿{
+  "ProcessingIntervalSecond": "30",
+  "MaxErrorRetries": "5",
+  "ConnectionString": "Host=localhost;Port=5432;Database=postgres;UserName=postgres;Password=Gamza_2109_KFU",
+  "Domain": "localhost",
+  "Port": "8080"
+}

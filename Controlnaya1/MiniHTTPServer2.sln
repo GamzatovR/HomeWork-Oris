@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniHTTPServer2", "MiniHTTPServer2\MiniHTTPServer2.csproj", "{70E87AEA-7E51-4174-ABAC-139E65CA5991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTemplateEngine", "MiniTemplateEngine\MiniTemplateEngine.csproj", "{C80E027E-190D-4CE8-BC74-6B1ABEBEC0DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTemplateEngineUnitTests", "MiniTemplateEngineUnitTests\MiniTemplateEngineUnitTests.csproj", "{0E5FCB8C-8C97-4DC4-AB8D-58ED704BBCF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork 6 Практика 5", "HomeWork 6 Практика 5", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyORMLibrary", "MyORMLibrary\MyORMLibrary.csproj", "{D3AE70B2-DFC0-4C00-B0FD-680FF6FB4837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyORMLibraryTest", "MyORMLibraryTest\MyORMLibraryTest.csproj", "{73740D3E-F5E7-4E05-931D-704403A33C65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlnaya1", "Controlnaya1\Controlnaya1.csproj", "{C9AF94AB-5BF8-4F37-A85F-BDC8C6DE3385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E87AEA-7E51-4174-ABAC-139E65CA5991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E87AEA-7E51-4174-ABAC-139E65CA5991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E87AEA-7E51-4174-ABAC-139E65CA5991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E87AEA-7E51-4174-ABAC-139E65CA5991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80E027E-190D-4CE8-BC74-6B1ABEBEC0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80E027E-190D-4CE8-BC74-6B1ABEBEC0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80E027E-190D-4CE8-BC74-6B1ABEBEC0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80E027E-190D-4CE8-BC74-6B1ABEBEC0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5FCB8C-8C97-4DC4-AB8D-58ED704BBCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5FCB8C-8C97-4DC4-AB8D-58ED704BBCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5FCB8C-8C97-4DC4-AB8D-58ED704BBCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5FCB8C-8C97-4DC4-AB8D-58ED704BBCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AE70B2-DFC0-4C00-B0FD-680FF6FB4837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AE70B2-DFC0-4C00-B0FD-680FF6FB4837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AE70B2-DFC0-4C00-B0FD-680FF6FB4837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AE70B2-DFC0-4C00-B0FD-680FF6FB4837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73740D3E-F5E7-4E05-931D-704403A33C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73740D3E-F5E7-4E05-931D-704403A33C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73740D3E-F5E7-4E05-931D-704403A33C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73740D3E-F5E7-4E05-931D-704403A33C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AF94AB-5BF8-4F37-A85F-BDC8C6DE3385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AF94AB-5BF8-4F37-A85F-BDC8C6DE3385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AF94AB-5BF8-4F37-A85F-BDC8C6DE3385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AF94AB-5BF8-4F37-A85F-BDC8C6DE3385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C80E027E-190D-4CE8-BC74-6B1ABEBEC0DA} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{0E5FCB8C-8C97-4DC4-AB8D-58ED704BBCF0} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C93E1E3-0A60-4AF0-A110-4414F8002C23}
+	EndGlobalSection
+EndGlobal
